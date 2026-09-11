@@ -1,0 +1,45 @@
+commit aa876f206e1ce0ce258af1412084a39fcdbc11d0
+Merge: 30ba2c4 9b50131
+Author: Kassandra Nicole Ali <kassnicoleali@gmail.com>
+Date:   Fri Sep 11 00:18:46 2026 -0700
+
+    Resolve merge conflict
+
+commit 9b5013107c8ae4410bc2d48a8a9a093a3537a46a
+Author: Kassandra Nicole Ali <kassnicoleali@gmail.com>
+Date:   Fri Sep 11 00:13:59 2026 -0700
+
+    Add favorite movie and game
+
+commit 30ba2c46d37122d0b97d5c04fd105fcec399957c
+Author: Kassandra Nicole Ali <kassnicoleali@gmail.com>
+Date:   Fri Sep 11 00:09:36 2026 -0700
+
+    Add favorite food
+
+commit e112187358f00f10bb2a899a013db6111f3214c3
+Author: Kassandra Nicole Ali <kassnicoleali@gmail.com>
+Date:   Fri Sep 11 00:03:41 2026 -0700
+
+    Add README
+
+commit b127704e7d07b82f219f8a83fff7f7a07a93a7a2
+Merge: 1d2bfc0 78e057e
+Author: Kassandra Nicole Ali <kassnicoleali@gmail.com>
+Date:   Thu Sep 10 23:55:49 2026 -0700
+
+    Merge pull request #1 from kassandra-ali/info-fill
+    
+    Fill in index.html
+
+commit 78e057e32436c9c19f73bc8234848b3ddcd9ed35
+Author: Kassandra Nicole Ali <kassnicoleali@gmail.com>
+Date:   Thu Sep 10 23:01:59 2026 -0700
+
+    Fill in index.html
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
